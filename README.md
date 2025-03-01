@@ -5,15 +5,23 @@ Despite the rich history of the Olympic Games, the underlying trends and pattern
 •	Analyze historical Olympic data from 1896 to 2024 to identify key trends.
 
 •	Examine medal distributions across countries and sports.
+
 •	Identify top-performing athletes and their impact over time.
+
 •	Track the evolution and popularity of various sports disciplines.
+
 •	Detect trends in Olympic participation by countries and athletes.
+
 •	Store processed data in an Oracle 23ai database for efficient querying.
+
 •	Enable interactive analysis through Tableau dashboards.
 ## Key Features:
 •	Data Ingestion & Cleaning: Automated extraction, cleansing, and transformation of Olympic data (handling encoding issues, missing values, etc.).
+
 •	Big Data Processing: Use of PySpark to aggregate and analyze data at scale.
+
 •	Database Integration: Seamless integration with Oracle 23ai for storing processed results.
+
 •	Interactive Visualization: Dynamic dashboards built in Tableau to explore trends and insights.
 
 ## Additional Setup:
