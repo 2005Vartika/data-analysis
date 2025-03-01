@@ -1,4 +1,5 @@
-# data-analysis
+# data-analysis -- OLYMPIC DATA ANALYSIS
+
 ## Problem Statement:
 Despite the rich history of the Olympic Games, the underlying trends and patterns in medal distribution, athlete performance, and the evolution of sports disciplines are not readily accessible. There is a need for an analytical solution that processes, stores, and visualizes this data to support strategic decision-making in sports management, media, and national sports programs.
 ## Project Objectives:
@@ -23,7 +24,8 @@ Despite the rich history of the Olympic Games, the underlying trends and pattern
 •	Database Integration: Seamless integration with Oracle 23ai for storing processed results.
 
 •	Interactive Visualization: Dynamic dashboards built in Tableau to explore trends and insights.
-
+## DATASET
+-<a href="https://github.com/2005Vartika/data-analysis/blob/main/olympics_1896_2024.csv">OLYMPIC DATA ANALYSIS DATASET </a>
 ## Additional Setup:
 Make sure to have JDK version 17 on your system
 
