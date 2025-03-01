@@ -26,10 +26,15 @@ Despite the rich history of the Olympic Games, the underlying trends and pattern
 
 ## Additional Setup:
 Make sure to have JDK version 17 on your system
+
 Oracle Database 23ai
+
 Add to path variable
+
 C:\app\<username>\product\23ai\dbhomeFree\jdbc\lib
+
 Have ojdbc17.jar and the base csv file in the same directory.
+
 Make sure to have Hadoop in your system.
 
 
