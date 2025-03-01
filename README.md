@@ -26,6 +26,11 @@ Despite the rich history of the Olympic Games, the underlying trends and pattern
 •	Interactive Visualization: Dynamic dashboards built in Tableau to explore trends and insights.
 ## DATASET
 -<a href="https://github.com/2005Vartika/data-analysis/blob/main/olympics_1896_2024.csv">OLYMPIC DATA ANALYSIS DATASET </a>
+
+## Dashboard
+-<a href="https://github.com/2005Vartika/data-analysis/blob/main/Screenshot%20(251).png">Dashboard 1</a>
+-<a href="https://github.com/2005Vartika/data-analysis/blob/main/Screenshot%20(252).png">Dashboard 2 </a>
+-<a href="https://github.com/2005Vartika/data-analysis/blob/main/Screenshot%20(253).png"> Dashboard 3 </a>
 ## Additional Setup:
 Make sure to have JDK version 17 on your system
 
